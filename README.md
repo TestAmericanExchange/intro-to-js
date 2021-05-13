@@ -1,14 +1,5 @@
-# Autograding Example: Node
-This example project is written in Node, and tested with Jest.
+# Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed enim sed enim blandit rhoncus. Aliquam id libero pellentesque, euismod nulla nec, ullamcorper neque. Duis convallis ut ex non viverra. Suspendisse tincidunt ipsum et arcu consectetur malesuada. Nulla a mattis purus, sit amet mattis neque. Suspendisse potenti. 
 
-### The assignment
-The tests are failing right now because we're not returning the correct string. Fixing this up will make the tests green.
-
-### Setup command
-`npm install`
-
-### Run command
-`npm test`
-
-### Notes
-- 
+## Problem
+Given 2 numbers, return their sum. Assume there a no edge cases.
